@@ -4,7 +4,7 @@
 </p>
 </br>
 
-<h2 align="center">⚒️Current Projects</h2>
+<h2 align="center">Projects</h2>
 <br>
 <p align="center" >
   
@@ -14,7 +14,7 @@
 </p>
 </br>
 
-<h2 align="center">💻Tech Stack:</h2>&nbsp;
+<h2 align="center">Tech Stack:</h2>&nbsp;
 <br>
 <p align="center">
   
@@ -23,11 +23,15 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=nodedotjs)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)&nbsp;
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code)&nbsp;
   
   
   </p>
 </br>
-<h2 align="center">📊My GitHub Stats</h2>
+<h2 align="center">My GitHub Stats</h2>
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llfrigoll&show_icons=true&theme=dark" />
