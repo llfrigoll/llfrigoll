@@ -7,9 +7,10 @@
 <h2 align="center">Projects</h2>
 <br>
 <p align="center" >
-- [Podd Podcast App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_DJS11.git)
+  
 - [Portfolio](https://franzpretoriusportfolio.netlify.app/)
 - [Cache Bank Landing Page](https://sdf11franzpretorius.netlify.app/)
+- [Task Management App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_JSL11.git)
 </p>
 </br>
 
@@ -32,7 +33,7 @@
 </br>
 
 <br>
-<h2 align="center">🤙🏽Contact Me:</h2>
+<h2 align="center">Contact Me:</h2>
 <p align="center">
 <a href="www.linkedin.com/in/franz-pretorius-27b46b302"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:franzj.pretorius.2003@gmail.com"><img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
