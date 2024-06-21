@@ -10,7 +10,7 @@
   
 - [Portfolio](https://franzpretoriusportfolio.netlify.app/)
 - [Cache Bank Landing Page](https://sdf11franzpretorius.netlify.app/)
-- [Task Management App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_JSL11.git)
+- [Podd Podcast App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_DJS11.git)
 </p>
 </br>
 
