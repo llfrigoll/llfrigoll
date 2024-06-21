@@ -8,6 +8,7 @@
 <br>
 <p align="center" >
   
+- [Podd Podcast App](https://poddpodcast.netlify.app/)
 - [Portfolio](https://franzpretoriusportfolio.netlify.app/)
 - [Cache Bank Landing Page](https://sdf11franzpretorius.netlify.app/)
 - [Task Management App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_JSL11.git)
