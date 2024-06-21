@@ -7,10 +7,9 @@
 <h2 align="center">Projects</h2>
 <br>
 <p align="center" >
-  
-- [Portfolio](https://franzpretoriusportfolio.netlify.app/)
-- [Cache Bank Landing Page](https://sdf11franzpretorius.netlify.app/)
 - [Podd Podcast App](https://github.com/llfrigoll/FRAPRE440_WFO2401_GroupA_Franz-Pretorius_DJS11.git)
+- [Portfolio](https://franzpretoriusportfolio.netlify.app/)
+- - [Cache Bank Landing Page](https://sdf11franzpretorius.netlify.app/)
 </p>
 </br>
 
